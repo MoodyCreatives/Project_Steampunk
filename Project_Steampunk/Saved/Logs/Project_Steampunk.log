@@ -2717,3 +2717,6 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.04.05-05.39.43:979][690]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
 [2025.04.05-05.39.43:985][690]LogXGEController: Cleaning working directory: C:/Users/tyler/AppData/Local/Temp/UnrealXGEWorkingDir/
 [2025.04.05-05.39.43:991][690]LogPakFile: Destroying PakPlatformFile
+[2025.04.05-05.39.44:157][690]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.04.05-05.39.44:194][690]LogExit: Exiting.
+[2025.04.05-05.39.44:210][690]Log file closed, 04/05/25 00:39:44
